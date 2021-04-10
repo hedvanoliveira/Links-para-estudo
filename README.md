@@ -13,16 +13,33 @@ Lista de link para o desenvolvedor
 
 ## UX
 
-* https://uxdesign.cc/
-* https://brasil.uxdesign.cc/
+* https://uxdesign.cc
+* https://brasil.uxdesign.cc
 
 ## Ferramentas Online
 
-* https://dotnetfiddle.net/
-* https://jsfiddle.net/
-* https://json2csharp.com/
-* https://javiercbk.github.io/json_to_dart/
-* https://jsonformatter.curiousconcept.com/
-* https://regexr.com/
-* https://regex101.com/
+* https://dotnetfiddle.net
+* https://jsfiddle.net
+* https://json2csharp.com
+* https://javiercbk.github.io/json_to_dart
+* https://jsonformatter.curiousconcept.com
+* https://www.json-generator.com
+* https://regexr.com
+* https://regex101.com
 
+## Interface e Front-end
+
+https://getbootstrap.com
+https://material.io
+
+## Flutter
+
+* https://flutter.dev/docs
+* https://pub.dev/
+* https://medium.com/flutterdevs
+* https://flutterawesome.com
+
+## Backend
+
+* https://firebase.google.com
+* https://www.back4app.com
