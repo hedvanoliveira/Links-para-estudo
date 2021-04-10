@@ -46,5 +46,5 @@ Lista de link para o desenvolvedor
 * https://www.back4app.com
 
 ## Nuvem com serviços gratuitos
-* [AZURE] <https://azure.microsoft.com/pt-br/pricing/purchase-options/pay-as-you-go/>
-* [AWS] <https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1&awsf.Free%20Tier%20Categories=*all>
+* [AZURE] (https://azure.microsoft.com/pt-br/pricing/purchase-options/pay-as-you-go/)
+* [AWS] (https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsm.page-all-free-tier=1&awsf.Free%20Tier%20Categories=*all)
