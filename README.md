@@ -29,8 +29,8 @@ Lista de link para o desenvolvedor
 
 ## Interface e Front-end
 
-https://getbootstrap.com
-https://material.io
+* https://getbootstrap.com
+* https://material.io
 
 ## Flutter
 
