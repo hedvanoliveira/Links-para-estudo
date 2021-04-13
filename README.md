@@ -39,6 +39,7 @@ Lista de link para o desenvolvedor
 * https://kauemurakami.github.io/getx_pattern
 * https://medium.com/flutterdevs
 * https://flutterawesome.com
+* https://github.com/Solido/awesome-flutter
 
 ## Backend
 
