@@ -41,6 +41,10 @@ Lista de link para o desenvolvedor
 * https://flutterawesome.com
 * https://github.com/Solido/awesome-flutter
 
+## Arquitetura
+
+* https://microservices.io
+
 ## Backend
 
 * https://firebase.google.com
